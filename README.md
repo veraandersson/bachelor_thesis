@@ -12,7 +12,7 @@ This repository contains the data and R implementation for my Bachelor’s thesi
   1. Minimizing total transmission.
   2. Protecting vulnerable individuals (long-term illness, older).
   3. Reducing fatality rates.
-* **Mathematics:** The final epidemic sizes for each demographic group are computed by numerically solving balance equations.
+* **Methods:** The final epidemic sizes for each demographic group are computed by numerically solving balance equations.
 * **Results:** The optimal vaccination scheme depends on the end goal. The vaccination scheme prioritizing younger individuals reduces transmission the most, while the scheme prioritizing vulnerable individuals protects risk groups the most. However, vaccinating individuals with a higher risk of early infection sufficiently reduces both transmission and protects risk groups.
 
 ## Contents
